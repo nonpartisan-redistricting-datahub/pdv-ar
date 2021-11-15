@@ -20,5 +20,5 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 - AR Voting Precincts 2020 Shapefile
   - Accessed: 11/04/21, Source: Arkansas GIS Office
   - https://gis.arkansas.gov/
-  - Downloaded Voting Districts - 2020 Census
+  - Downloaded: Voting Districts - 2020 Census
 
